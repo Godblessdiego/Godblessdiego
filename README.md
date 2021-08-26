@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Godblessdiego
+- 👀 I’m interested in creating stuff that people can use daily and becoming into a better human being 
+- 🌱 I’m currently learning how to code, actually I don't even know if this is gonna work how I planned it to be but I wanna learn either way
+- 💞️ I’m looking to collaborate on something great and interesting such as a game or something like that 
+- 📫 How to reach me: you guys can contact me via gmail - diegofigueroanl@gmail.com
+- THANK YOU FOR THE TIME I GUESS
