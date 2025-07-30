@@ -5,30 +5,34 @@
 </h1>
 
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">Just a Chilean dev 🇨🇱 writing code like poetry</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🔭 Building dope stuff with my team at <a href="https://www.patagoniadevs.com" target="_blank">PatagoniaDevs</a> – we code, we deploy, we don’t sleep.
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+🌱 Currently learning **FastAPI** and **Go**, because why not master the backend like a beast?
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+💻 I don’t just like programming — I love it. It gave my life direction, purpose, and income. Period.
+
+🎮 Off-code? I’m usually on **CS2**, or reading the **Bhagavad Gita** (read it, trust me — real devs level up inside too).
+
+💬 Ask me anything [here](https://github.com/Godblessdiego/Godblessdiego/issues). Or don’t. I’ll probably answer anyway 😎
+
+🌶️ Fun fact: I’m from **Chile** – yes, like the pepper. Spicy country, spicy code.
 
  </div>
  
 <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
+  <a href="mailto:diegofigueroanl@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <a href="https://www.linkedin.com/in/diegofiguerobravo/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
+  <a href="https://www.patagoniadevs.com" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
@@ -38,8 +42,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,neovim,bootstrap,tailwind,react,nextjs,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,go,firebase,supabase,mongodb,postgres,flask" /><br>
+  <img src="https://skillicons.dev/icons?i=obsidian,arch,ai,discord,apple,linux" /><br>
 </div>
 
 <br/>
@@ -48,7 +53,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/Godblessdiego/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
