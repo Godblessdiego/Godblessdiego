@@ -9,7 +9,7 @@
 
 <br/>
 
-<div align="center">
+<div align="left">
  
  🔭 Building dope stuff with my team at <a href="https://www.patagoniadevs.com" target="_blank">PatagoniaDevs</a> – we code, we deploy, we don’t sleep.
 
