@@ -9,19 +9,19 @@
 
 <br/>
 
-<div align="left">
+<div align="center">
  
- 🔭 Building dope stuff with my team at <a href="https://www.patagoniadevs.com" target="_blank">PatagoniaDevs</a> – we code, we deploy, we don’t sleep.
+ Building dope stuff with my team at <a href="https://www.patagoniadevs.com" target="_blank">PatagoniaDevs</a> – we code, we deploy, we don’t sleep.
 
-🌱 Currently learning **FastAPI** and **Go**, because why not master the backend like a beast?
+Currently learning **FastAPI** and **Go**, because why not master the backend like a beast?
 
-💻 I don’t just like programming — I love it. It gave my life direction, purpose, and income. Period.
+I don’t just like programming — I love it. It gave my life direction, purpose, and income. Period.
 
-🎮 Off-code? I’m usually on **CS2**, or reading the **Bhagavad Gita** (read it, trust me — real devs level up inside too).
+Off-code? I’m usually on **CS2**, or reading the **Bhagavad Gita** (read it, trust me — real devs level up inside too).
 
-💬 Ask me anything [here](https://github.com/Godblessdiego/Godblessdiego/issues). Or don’t. I’ll probably answer anyway 😎
+Ask me anything [here](https://github.com/Godblessdiego/Godblessdiego/issues). Or don’t. I’ll probably answer anyway 😎
 
-🌶️ Fun fact: I’m from **Chile** – yes, like the pepper. Spicy country, spicy code.
+🌶Fun fact: I’m from **Chile** – yes, like the pepper. Spicy country, spicy code.
 
  </div>
  
