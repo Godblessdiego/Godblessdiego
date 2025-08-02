@@ -19,7 +19,7 @@ I don’t just like programming — I love it. It gave my life direction, purpos
 
 Off-code? I’m usually on **CS2**, or reading the **Bhagavad Gita** (read it, trust me — real devs level up inside too).
 
-Ask me anything [here](https://github.com/Godblessdiego/Godblessdiego/issues). Or don’t. I’ll probably answer anyway 😎
+Ask me anything [here](https://github.com/Godblessdiego/Godblessdiego/issues). Or don’t. I’ll probably answer anyway
 
 🌶Fun fact: I’m from **Chile** – yes, like the pepper. Spicy country, spicy code.
 
