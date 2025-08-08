@@ -5,7 +5,7 @@
 </h1>
 
 
-<h3 align="center">Just a Chilean dev 🇨🇱 writing code like poetry</h3>
+<h3 align="center">Just a chilean dev writing code like poetry</h3>
 
 <br/>
 
